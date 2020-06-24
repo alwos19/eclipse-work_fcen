@@ -1,0 +1,11 @@
+package com.jaramillos.springboot.backend.apirest.models.services;
+
+import java.util.List;
+
+import com.jaramillos.springboot.backend.apirest.models.entity.Cliente;
+
+public interface IClienteServices {
+	
+	public List<Cliente> findAll();
+
+}

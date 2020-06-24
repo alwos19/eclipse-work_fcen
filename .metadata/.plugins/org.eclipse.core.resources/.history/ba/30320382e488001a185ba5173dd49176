@@ -1,0 +1,5 @@
+package com.jaramillos.springboot.backend.apirest.models.entity;
+
+public class Cliente {
+
+}

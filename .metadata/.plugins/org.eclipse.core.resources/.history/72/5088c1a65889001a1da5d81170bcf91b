@@ -1,0 +1,5 @@
+package com.jaramillos.springboot.backend.apirest.controllers;
+
+public class ClienteRestController {
+
+}
